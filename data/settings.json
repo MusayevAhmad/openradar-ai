@@ -1,0 +1,28 @@
+{
+  "topics": [
+    "Autonomous AI Agents & Multi-Agent Systems",
+    "AI Safety, Alignment & Threat Models",
+    "Edge AI & Distributed Low-Power Inference",
+    "Mechanistic Interpretability & Model Steerability",
+    "Model Distillation & Efficient Reasoning"
+  ],
+  "keywords": [
+    "agent",
+    "autonomous",
+    "threat model",
+    "self-replicating",
+    "edge",
+    "distillation",
+    "reasoning",
+    "alignment",
+    "inference",
+    "jailbreak",
+    "mechanistic",
+    "latent",
+    "safety",
+    "rlhf",
+    "test-time compute"
+  ],
+  "minScore": 65,
+  "autoRefreshIntervalMinutes": 360
+}
